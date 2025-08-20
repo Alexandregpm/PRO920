@@ -1,0 +1,72 @@
+Runtime error in replication 1 of scenario 1 at time 59800,000000 s:
+Estoque_Rolamentos:
+Number of objects in the queue exceeds the limit of 10000 set by the 'MaxValidLength' input.
+Stack trace:
+com.jaamsim.basicsim.Entity.error(Entity.java:1093)
+com.jaamsim.ProcessFlow.Queue.addEntity(Queue.java:294)
+com.jaamsim.ProcessFlow.LinkedDevice.sendToNextComponent(LinkedDevice.java:138)
+com.jaamsim.ProcessFlow.EntityGenerator.processStep(EntityGenerator.java:210)
+com.jaamsim.ProcessFlow.Device.endStep(Device.java:234)
+com.jaamsim.ProcessFlow.Device$EndStepTarget.process(Device.java:214)
+com.jaamsim.events.EventManager.executeTarget(EventManager.java:178)
+com.jaamsim.events.EventManager.execute(EventManager.java:272)
+com.jaamsim.events.Process.run(Process.java:98)
+
+Runtime error in replication 1 of scenario 1 at time 59800,000000 s:
+Estoque_Rolamentos:
+Number of objects in the queue exceeds the limit of 10000 set by the 'MaxValidLength' input.
+Stack trace:
+com.jaamsim.basicsim.Entity.error(Entity.java:1093)
+com.jaamsim.ProcessFlow.Queue.addEntity(Queue.java:294)
+com.jaamsim.ProcessFlow.LinkedDevice.sendToNextComponent(LinkedDevice.java:138)
+com.jaamsim.ProcessFlow.EntityGenerator.processStep(EntityGenerator.java:210)
+com.jaamsim.ProcessFlow.Device.endStep(Device.java:234)
+com.jaamsim.ProcessFlow.Device$EndStepTarget.process(Device.java:214)
+com.jaamsim.events.EventManager.executeTarget(EventManager.java:178)
+com.jaamsim.events.EventManager.execute(EventManager.java:272)
+com.jaamsim.events.Process.run(Process.java:98)
+
+Runtime error in replication 1 of scenario 1 at time 56480,000000 s:
+Estoque_Vedacoes:
+Number of objects in the queue exceeds the limit of 10000 set by the 'MaxValidLength' input.
+Stack trace:
+com.jaamsim.basicsim.Entity.error(Entity.java:1093)
+com.jaamsim.ProcessFlow.Queue.addEntity(Queue.java:294)
+com.jaamsim.ProcessFlow.LinkedDevice.sendToNextComponent(LinkedDevice.java:138)
+com.jaamsim.ProcessFlow.EntityGenerator.processStep(EntityGenerator.java:210)
+com.jaamsim.ProcessFlow.Device.endStep(Device.java:234)
+com.jaamsim.ProcessFlow.Device$EndStepTarget.process(Device.java:214)
+com.jaamsim.events.EventManager.executeTarget(EventManager.java:178)
+com.jaamsim.events.EventManager.execute(EventManager.java:272)
+com.jaamsim.events.Process.run(Process.java:98)
+
+Runtime error in replication 1 of scenario 1 at time 10022,000000 s:
+Fila_Guilhotina:
+Number of objects in the queue exceeds the limit of 10000 set by the 'MaxValidLength' input.
+Stack trace:
+com.jaamsim.basicsim.Entity.error(Entity.java:1093)
+com.jaamsim.ProcessFlow.Queue.addEntity(Queue.java:294)
+com.jaamsim.ProcessFlow.LinkedDevice.sendToNextComponent(LinkedDevice.java:138)
+com.jaamsim.ProcessFlow.EntityGenerator.processStep(EntityGenerator.java:210)
+com.jaamsim.ProcessFlow.Device.endStep(Device.java:234)
+com.jaamsim.ProcessFlow.Device$EndStepTarget.process(Device.java:214)
+com.jaamsim.events.EventManager.executeTarget(EventManager.java:178)
+com.jaamsim.events.EventManager.execute(EventManager.java:272)
+com.jaamsim.events.Process.run(Process.java:98)
+
+Runtime error in replication 1 of scenario 1 at time 10022,000000 s:
+Fila_Guilhotina:
+Number of objects in the queue exceeds the limit of 10000 set by the 'MaxValidLength' input.
+Stack trace:
+com.jaamsim.basicsim.Entity.error(Entity.java:1093)
+com.jaamsim.ProcessFlow.Queue.addEntity(Queue.java:294)
+com.jaamsim.ProcessFlow.LinkedDevice.sendToNextComponent(LinkedDevice.java:138)
+com.jaamsim.ProcessFlow.EntityGenerator.processStep(EntityGenerator.java:210)
+com.jaamsim.ProcessFlow.Device.endStep(Device.java:234)
+com.jaamsim.ProcessFlow.Device$EndStepTarget.process(Device.java:214)
+com.jaamsim.events.EventManager.executeTarget(EventManager.java:178)
+com.jaamsim.events.EventManager.execute(EventManager.java:272)
+com.jaamsim.events.Process.run(Process.java:98)
+
+Validation Error - Controle_Estoque_Tubo_Retorno: An input must be provided for the keyword 'OpenCondition'.
+
